@@ -1,0 +1,25 @@
+h1 {
+    font-family: Helvetica, Tahoma, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    color: rgba(121, 46, 121, 0.952);
+}
+
+h2, h3 {
+    font-family: Helvetica, Tahoma, san-serif;
+    font-weight: lighter;
+    color: rgba(121, 46, 121, 0.952);
+} 
+
+p {
+    font-family: Helvetica, Tahoma, sans-serif;
+    font-weight: lighter;
+    color: black;
+    text-align: center;
+}
+
+ul, ol {
+    font-family: Helvetica, Tahoma, sans-serif;
+    font-weight: lighter;
+    color: black;
+}

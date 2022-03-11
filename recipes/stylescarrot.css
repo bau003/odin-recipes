@@ -1,0 +1,26 @@
+h1 {
+    font-family: Helvetica, Tahoma, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    color: orange;
+}
+
+h2, h3, ol, ul, p, a {
+    font-family: Helvetica, Tahoma, sans-serif;
+    font-weight: lighter;
+    color: orange;
+}
+
+p {
+    text-align: center;
+    color: black;
+}
+
+ol, ul {
+    color: black;
+}
+
+img {
+    width: 900px;
+    height: auto;
+}
